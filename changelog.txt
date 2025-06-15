@@ -1,0 +1,9 @@
+v0.2
+2025-06-15
++ created function.py file in 'library' directory
++ uploaded game icon image file
+~ changed grid data processing system from 2D lists to 1D lists
+~ edited and moved the warehouse.py file from 'assets' to 'library' directory
+~ separated the code for level building system from main.py and made it functional as level-builder.py
+~ updated main.py so that it can show level choosing screen and main game screen on the same window
+~ updated the level data storing system from json to csv
